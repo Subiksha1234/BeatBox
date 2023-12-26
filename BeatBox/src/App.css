@@ -1,0 +1,108 @@
+.App {
+  text-align: center;
+}
+
+ .Card :hover{
+background-color: #4B4848;
+ }
+
+.apptool {
+  background-color: #1D1A1A;
+  position: fixed;
+  right: 0;
+  top: 0;
+  height: 10%;
+  width: 85%;
+  z-index: 1;
+}
+
+.sidenav {
+  background-color: #2e2e2e;
+  overflow: hidden;
+}
+
+.avatar {
+  float: right;
+}
+
+.back {
+  margin: 0%;
+  top: 2%;
+  left: 1%;
+  position: relative;
+  float: left;
+}
+
+.music-control-bar {
+  position: absolute;
+  width: 100%;
+  height: 15%;
+  bottom: 0;
+}
+
+.centerColumn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+}
+
+.main-content {
+  position: absolute;
+  right: 0;
+  top: 10%;
+  height: 75%;
+  width: 85%;
+  overflow: auto;
+  background-color: #1D1A1A;
+}
+
+.main-content::-webkit-scrollbar {
+  display: none;
+}
+
+.main-inner-container {
+  height: inherit;
+  width: inherit;
+  margin-left: 5%;
+  margin-top: 1%;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  height: 15%;
+  width: 100%;
+  background-color: #252525;
+  border-top: 0.25px solid white;
+  /* background-color: #4B4848; */
+}
+
+
+.col-md-3 {
+  padding: 25px;
+  padding-bottom: 3%;
+}
+
+.list {
+  position: absolute;
+  top: 19%
+}
+
+.line {
+  background-color: white;
+}
+
+.logo {
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  width: 33%;
+  border-radius: 60%
+}
+
+/* container .card:hover .slide.slide2 {
+
+  transform: translateY(0);
+
+} */

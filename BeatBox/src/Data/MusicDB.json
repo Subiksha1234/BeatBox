@@ -1,0 +1,60 @@
+[
+
+    {
+        "id":0,
+        "name":"Ennai Vittu",
+        "img":"ennai-vittu.jpg",
+        "title":"Recently Played"
+    },
+    {
+        "id":1,
+        "name":"Chilla Chilla",
+        "img":"chilla-chilla.jpg",
+        "title":"Good Morning"
+    },
+    {
+        "id":2,
+        "name":"Engeyum Kadhal",
+        "img":"engeyum-kadhal.jpg",
+        "title":"Good Morning"
+    },
+    {
+        "id":3,
+        "name":"Kannazhaga",
+        "img":"moonu.jpg",
+        "title":"Good Morning"
+    },
+    {
+        "id":4,
+        "name":"Wasted",
+        "img":"vikram.jpg",
+        "title":"Good Morning"
+    },
+    {
+        "id":5,
+        "name":"Anirudh Ravichandar",
+        "img":"anirudh.jpg",
+        "title":"Artist's MIX"
+    },
+    {
+        "id":6,
+        "name":"Hip Hop Tamizha",
+        "img":"aadhi.jpg",
+        "title":"Artist's MIX"
+    },
+    {
+        "id":7,
+        "name":"Yuvan Shankar Raja",
+        "img":"yuvan.jpg",
+        "title":"Artist's MIX"
+    },
+    {
+        "id":8,
+        "name":"Gangstaa",
+        "img":"gangstaa.jpg",
+        "title":"Recently Played"
+    }
+
+
+
+]
